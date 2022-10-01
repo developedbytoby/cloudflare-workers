@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import { GetStaticProps, NextPage } from 'next'
-import React from 'react'
 
 function IndexPage() {
   return (
